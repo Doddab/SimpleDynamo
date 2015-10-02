@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lint>
+    <issue id="UseSparseArrays">
+        <ignore path="src/edu/buffalo/cse/cse486586/simpledynamo/SimpleDynamoProvider.java" />
+    </issue>
+</lint>
